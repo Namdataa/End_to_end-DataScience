@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6dc51844-5cfe-481a-80c6-2a1db77b67b3)# Analysis And Forecast Of Perfume Demand
+![image](https://github.com/user-attachments/assets/982d48d6-5deb-4ca7-8b3e-b9bd6919c54b)# Analysis And Forecast Of Perfume Demand
 ![FRAMEWORK](https://github.com/user-attachments/assets/a694c5fc-accf-432b-bf9e-dcbe28298515)
 With the project “Analysis & Forecasting Market Demand and Optimizing the Perfume Supply Chain”, our goal is to use the business’s own data to
 predict product demand, help optimize the import process, minimize unnecessary inventory
@@ -88,6 +88,66 @@ proposes solutions for applying data science to create long-term competitive adv
   * `lat`: The latitude of the location, which supports spatial analysis or visualization on a map.
   * `lon`: The longitude of the location, combined with lat to determine the exact geographic location.
   * `Doanh thu`: The total revenue of the order, calculated as `price` × `quantity` for each product in the order.
+# FORECAST AND BUSINESS PLAN PROPOSAL
+
+## Temperature and product type:
+### Northern region (Hanoi, Hai Phong):
+- The lowest average temperature ranges from 19.93°C to 20.64°C, indicating that winter is colder than other regions.
+![image](https://github.com/user-attachments/assets/0c9cfb48-fc0f-4b4b-954d-10a5f7675a5e)
+![image](https://github.com/user-attachments/assets/dff4300c-3fb9-4e4e-b4d6-f790fdf4262d)
+
+- Here, with the seasonal nature of temperature, we will look at the past temperature in Hanoi and Hai Phong from 12/2023 to the end of 02/2024.
+
+![image](https://github.com/user-attachments/assets/e00f07c2-3462-4cea-81fe-6e88e66cc150)
+![image](https://github.com/user-attachments/assets/1e062c7f-3458-4437-a279-96ff3bea7aeb)
+
+- From the forecast temperature and the past temperature of Hanoi and Hai Phong in the period from 12/2023 to the end of 02/2024, the temperature is very low and it always fluctuates with the temperature from 14.9 to 22.15 and in this temperature range with the type of product suitable for this customer is similar to our forecast that Eau De Parfum and Perfume have a concentration of Eau De Parfum (15-20%) and Perfume (20-30%) from 15-30%.
+
+![image](https://github.com/user-attachments/assets/a749f336-1195-4134-a880-1cf2efeb226e)
+
+- In the Northern market at 2 locations, Ha Noi and Hai Phong, Eau De Parfum is more dominant than Perfume and people prefer to use Eau De Parfum.
+### Central region (Da Nang, Hue):
+- The lowest average temperature ranges from 22.64°C (Hue) to 25.45°C (Nha Trang), warmer than the North.
+
+![image](https://github.com/user-attachments/assets/49ffb7a3-474f-4d08-b706-4ecd7304ee75)
+![image](https://github.com/user-attachments/assets/3dd026db-3858-45c8-8582-67921173dab3)
+
+- Here, with the seasonal nature of temperature, we will look at the past temperature in Hue and Da Nang from December 2023 to the end of February 2024.
+
+![image](https://github.com/user-attachments/assets/73fa2a76-fd6b-40aa-8f6d-f89911c3b8a4)
+![image](https://github.com/user-attachments/assets/913ca52f-53d4-4b08-ace0-0f15fbbac987)
+
+- From the forecast temperature and the past temperature of Hue, Da Nang in the period of 12/2023 to the end of 02/2024, the average temperature is warmer than the North and it always goes sideways with the temperature from 20°C to 25°C and in this temperature range with the type of product suitable for this customer is similar to our forecast of Eau De Toilette and Eau De Parfum with the concentration of Eau De Toilette (5-15%) and Eau De Parfum (15-20%) from 5-20%.
+
+![image](https://github.com/user-attachments/assets/1a5d3134-3623-4e95-a66c-70500e15040c)
+
+- In Da Nang market, Eau De Toilette is higher than Eau De Parfum, but in Hue market, there is another advantage, Eau De Parfum is much higher than Eau De Toilette.
+### Southern and South Central region (Ho Chi Minh, Ca Mau, Nha Trang):
+- The lowest average temperature ranges from 26.16°C to 26.99°C, higher than both the North and Central regions, reflecting the typical hot and humid tropical monsoon climate.
+
+![image](https://github.com/user-attachments/assets/354cd4ec-8286-4ca3-bf5c-f2c22fc278ec)
+![image](https://github.com/user-attachments/assets/17fabe5c-cd41-4fe2-9d56-f2216fb52e3c)
+![image](https://github.com/user-attachments/assets/626981b2-6580-4478-8157-ca5692ae2822)
+
+- Here, with the seasonal nature of temperature, we will look at the past temperature in Ho Chi Minh, Ca Mau and Nha Trang from December 2023 to the end of February 2024.
+
+![image](https://github.com/user-attachments/assets/24882092-c998-4d3d-9540-f20dc8ecfd29)
+![image](https://github.com/user-attachments/assets/0c1d16ed-49af-4e90-8fb6-082f1a79326b)
+![image](https://github.com/user-attachments/assets/85e5768e-5b65-4d81-8771-a47025bf2bc0)
+
+- From the forecast temperature and historical temperature of Ho Chi Minh City, Ca Mau and Nha Trang in the period from 12/2023 to the end of 02/2024, the temperature is high, slightly higher than that of the North and Central regions and it always goes sideways with the temperature from 27°C to 29°C and is in this temperature range with Eau De Cologne and Eau De Toilette with concentration of Eau De Cologne (2-4%) and Eau De Toilette (5-15%).
+
+![image](https://github.com/user-attachments/assets/51a86a5b-d0a2-49a2-99bf-866d11954630)
+
+- In the Southern and South Central markets, people use two types of perfumes: Eau De Cologne and Eau De Toilette, but consumers prefer Eau De Toilette.
+## Manufacturer:
+- With big perfume manufacturers like Dior and Chanel will be the top priority because it has a large traffic compared to other perfume brands.
+![image](https://github.com/user-attachments/assets/0cd7ab80-7ce9-4ebf-98cc-24a44467294e)
+![image](https://github.com/user-attachments/assets/924d11cf-30b9-4b7f-99d3-ff8e9820aa01)
+![image](https://github.com/user-attachments/assets/be2d3ac1-f6b1-4c82-ab6a-a326be9c0f91)
+![image](https://github.com/user-attachments/assets/094b6b65-81c0-431e-aa33-33f836066f01)
+- Với lượng tìm kiếm về các sản phẩm của 2 hãng lớn như Dior và Chanel trong quá khứ rất cao, có thể nói là gấp đôi so với các hãng khác. Với lượng dự báo cho kế hoạch nhập hàng và phân phối sản phẩm trong 90 ngày đến thì lượng dự báo lượt tìm kiếm của nước hoa hãng Dior và Chanel có xu hướng tăng tốt, với đó là Gucci và Bharara cũng là 2 thương hiệu có tiếng tăm trên thị trường nhưng dự báo 90 ngày đến lượt tìm kiếm giảm dần.
+
 
 
 
