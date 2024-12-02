@@ -156,10 +156,12 @@ proposes solutions for applying data science to create long-term competitive adv
  **Northern Region (Hanoi, Hai Phong):**
 - Advertise and reach customers with Eau De Parfum (15-20%) concentration and Perfume (20-30%) concentration products.
 - Prioritize importing and marketing Eau De Parfum as the main product.
- **Northern Region (Hanoi, Hai Phong):**
+
+ **Central region (Da Nang, Hue):**
 - Advertise and reach customers with Eau De Toilette (5-15%) concentration and Eau De Parfum (15-20%) concentration products.
 - Prioritize importing and marketing Eau De Parfum in Hue as the main product.
- **Northern Region (Hanoi, Hai Phong):**
+
+ **Southern and South Central region (Ho Chi Minh, Ca Mau, Nha Trang):**
 - Advertise and reach customers with Eau De Cologne (2-4%) concentration and Eau De Toilette (5-15%) concentration products.
 - Prioritize importing and marketing Eau De Toilette in Ho Chi Minh as the main product.
 
