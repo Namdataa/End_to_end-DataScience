@@ -88,7 +88,7 @@ proposes solutions for applying data science to create long-term competitive adv
   * `lat`: The latitude of the location, which supports spatial analysis or visualization on a map.
   * `lon`: The longitude of the location, combined with lat to determine the exact geographic location.
   * `Doanh thu`: The total revenue of the order, calculated as `price` × `quantity` for each product in the order.
-# FORECAST AND BUSINESS PLAN PROPOSAL
+# Forecast And Business Plan Proposal
 
 ## Temperature and product type:
 ### Northern region (Hanoi, Hai Phong):
@@ -164,10 +164,30 @@ proposes solutions for applying data science to create long-term competitive adv
  **Southern and South Central region (Ho Chi Minh, Ca Mau, Nha Trang):**
 - Advertise and reach customers with Eau De Cologne (2-4%) concentration and Eau De Toilette (5-15%) concentration products.
 - Prioritize importing and marketing Eau De Toilette in Ho Chi Minh as the main product.
+## Project Flow Chart
 
+## Project Steps
+### 1. Extract - Transform - Load (ETL) - ETL Pipeline
+The pipeline helps update and store data contained in the ETL_data file. The data in this system is run automatically by the APScheduler library, which synthesizes product data files, data from libraries and APIs, then transforms and extracts it and stores it in the local Database.
 
+**- Data Extraction:**
++ Synthesize product data from the data_sanpham.csv file.
++ Combine MeteoStat and Faker libraries to create simulated customer data, orders, detailed orders and nominatim API to get data on the coordinates of cities.
 
+**- Data Cleaning:**
++ Use the pandas library to clean the data in the data_sanpham.csv file such as removing duplicates, handling null values ​​and handling outliers
 
+**- Feature Engineering and Transformation:**
++ Here I use 2 models, ARIMA and LSTM, extracting values ​​and using models in the code in the Metric.py file
++ Training the LSTM model to predict the weather in the file
+#### 1.1 Usage
+Here are the steps to setup and run the pipeline:
+1. Need a code running environment like VS Code or Jupyter Notebook, ... and download the above files to the same place as the code running environment folder.
+2. Open the ETL_data.ipynb file and need to install the necessary libraries first, open your SQL server and fill in your server information in the section that needs to be replaced in the ETL_data.ipynb file and run it, because it is scheduled to run every 5 minutes so you need to wait.
+### 2. Data Analysis & Predictive Modelling
+- We present actionable results overview charts for senior executives on the Dashboard side, and on the Analytics side we include more in-depth data on customers, products, and orders.
 
+![image](https://github.com/user-attachments/assets/751b7d9b-cfc4-4019-8b58-33e32f1d8bc0)
+- With the forecasting model we are using to predict what the weather will be like in the next 90 days and what the search traffic for keywords related to the product will be in the coming months. This data combined with the company's historical data will help senior management make better decisions.
 
-  
+![image](https://github.com/user-attachments/assets/00562da4-6484-4c9c-811e-f656163b43d5)
