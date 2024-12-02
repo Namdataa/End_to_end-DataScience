@@ -192,4 +192,5 @@ Here are the steps to setup and run the pipeline:
 
 ![image](https://github.com/user-attachments/assets/00562da4-6484-4c9c-811e-f656163b43d5)
 ### 3. Project overview video
+[![End to end Project DataScience ( Analysis And Forecast Of Perfume Demand)](https://img.youtube.com/vi/<StL3QEe50uQ>/0.jpg)](https://www.youtube.com/watch?v=<StL3QEe50uQ>)
 
