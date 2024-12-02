@@ -179,7 +179,7 @@ The pipeline helps update and store data contained in the `ETL_data.ipynb` file.
 
 **- Feature Engineering and Transformation:**
 + Here I use 2 models, ARIMA and LSTM, extracting values ​​and using models in the code in the `Metric.py` file
-+ Training the LSTM model to predict the weather in the file
++ Training the LSTM model to predict the weather in the file `Modeltrain_LSTM.ipynb`
 #### 1.1 Usage
 Here are the steps to setup and run the pipeline:
 1. Need a code running environment like VS Code or Jupyter Notebook, ... and download the above files to the same place as the code running environment folder.
@@ -191,3 +191,5 @@ Here are the steps to setup and run the pipeline:
 - With the forecasting model we are using to predict what the weather will be like in the next 90 days and what the search traffic for keywords related to the product will be in the coming months. This data combined with the company's historical data will help senior management make better decisions.
 
 ![image](https://github.com/user-attachments/assets/00562da4-6484-4c9c-811e-f656163b43d5)
+### 3. Project overview video
+
