@@ -122,7 +122,7 @@ proposes solutions for applying data science to create long-term competitive adv
 ![image](https://github.com/user-attachments/assets/1a5d3134-3623-4e95-a66c-70500e15040c)
 
 - In Da Nang market, Eau De Toilette is higher than Eau De Parfum, but in Hue market, there is another advantage, Eau De Parfum is much higher than Eau De Toilette.
-### Southern and South Central region (Ho Chi Minh, Ca Mau, Nha Trang):
+ ### Southern and South Central region (Ho Chi Minh, Ca Mau, Nha Trang):
 - The lowest average temperature ranges from 26.16°C to 26.99°C, higher than both the North and Central regions, reflecting the typical hot and humid tropical monsoon climate.
 
 ![image](https://github.com/user-attachments/assets/354cd4ec-8286-4ca3-bf5c-f2c22fc278ec)
@@ -142,11 +142,28 @@ proposes solutions for applying data science to create long-term competitive adv
 - In the Southern and South Central markets, people use two types of perfumes: Eau De Cologne and Eau De Toilette, but consumers prefer Eau De Toilette.
 ## Manufacturer:
 - With big perfume manufacturers like Dior and Chanel will be the top priority because it has a large traffic compared to other perfume brands.
+
 ![image](https://github.com/user-attachments/assets/0cd7ab80-7ce9-4ebf-98cc-24a44467294e)
 ![image](https://github.com/user-attachments/assets/924d11cf-30b9-4b7f-99d3-ff8e9820aa01)
 ![image](https://github.com/user-attachments/assets/be2d3ac1-f6b1-4c82-ab6a-a326be9c0f91)
 ![image](https://github.com/user-attachments/assets/094b6b65-81c0-431e-aa33-33f836066f01)
-- Với lượng tìm kiếm về các sản phẩm của 2 hãng lớn như Dior và Chanel trong quá khứ rất cao, có thể nói là gấp đôi so với các hãng khác. Với lượng dự báo cho kế hoạch nhập hàng và phân phối sản phẩm trong 90 ngày đến thì lượng dự báo lượt tìm kiếm của nước hoa hãng Dior và Chanel có xu hướng tăng tốt, với đó là Gucci và Bharara cũng là 2 thương hiệu có tiếng tăm trên thị trường nhưng dự báo 90 ngày đến lượt tìm kiếm giảm dần.
+
+- With the search volume for products of two big brands like Dior and Chanel in the past being very high, it can be said that it is double that of other brands. With the forecast for the import and distribution plan for the next 90 days, the forecast for the search volume of Dior and Chanel perfumes tends to increase well, with Gucci and Bharara also being two famous brands in the market but the forecast for the next 90 days is that the search volume will gradually decrease.
+## Business Plan Recommendations for next 90 days:
+### Manufacturer:
+- **Focus on two major perfume brands:** Dior and Chanel.
+### Product Type:
+ **Northern Region (Hanoi, Hai Phong):**
+- Advertise and reach customers with Eau De Parfum (15-20%) concentration and Perfume (20-30%) concentration products.
+- Prioritize importing and marketing Eau De Parfum as the main product.
+ **Northern Region (Hanoi, Hai Phong):**
+- Advertise and reach customers with Eau De Toilette (5-15%) concentration and Eau De Parfum (15-20%) concentration products.
+- Prioritize importing and marketing Eau De Parfum in Hue as the main product.
+ **Northern Region (Hanoi, Hai Phong):**
+- Advertise and reach customers with Eau De Cologne (2-4%) concentration and Eau De Toilette (5-15%) concentration products.
+- Prioritize importing and marketing Eau De Toilette in Ho Chi Minh as the main product.
+
+
 
 
 
