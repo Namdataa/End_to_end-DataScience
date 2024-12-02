@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/982d48d6-5deb-4ca7-8b3e-b9bd6919c54b)# Analysis And Forecast Of Perfume Demand
+# Analysis And Forecast Of Perfume Demand
 ![FRAMEWORK](https://github.com/user-attachments/assets/a694c5fc-accf-432b-bf9e-dcbe28298515)
 With the project “Analysis & Forecasting Market Demand and Optimizing the Perfume Supply Chain”, our goal is to use the business’s own data to
 predict product demand, help optimize the import process, minimize unnecessary inventory
