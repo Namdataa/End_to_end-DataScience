@@ -105,7 +105,7 @@ proposes solutions for applying data science to create long-term competitive adv
 
 ![image](https://github.com/user-attachments/assets/a749f336-1195-4134-a880-1cf2efeb226e)
 
-- In the Northern market at 2 locations, **Ha Noi** and **Hai Phong**, **Eau De Parfum** is more dominant than **Perfume** and people prefer to use Eau De **Parfum**.
+- In the Northern market at 2 locations, **Ha Noi** and **Hai Phong**, **Eau De Parfum** is more dominant than **Perfume** and people prefer to use **Eau De Parfum**.
 ### Central region (Da Nang, Hue):
 - The lowest average temperature ranges from **22.64°C (Hue)** to **25.45°C (Nha Trang)**, warmer than the North.
 
@@ -148,10 +148,10 @@ proposes solutions for applying data science to create long-term competitive adv
 ![image](https://github.com/user-attachments/assets/be2d3ac1-f6b1-4c82-ab6a-a326be9c0f91)
 ![image](https://github.com/user-attachments/assets/094b6b65-81c0-431e-aa33-33f836066f01)
 
-- With the search volume for products of two big brands like Dior and Chanel in the past being very high, it can be said that it is double that of other brands. With the forecast for the import and distribution plan for the next 90 days, the forecast for the search volume of Dior and Chanel perfumes tends to increase well, with Gucci and Bharara also being two famous brands in the market but the forecast for the next 90 days is that the search volume will gradually decrease.
+- With the search volume for products of two big brands like **Dior** and **Chanel** in the past being very high, it can be said that it is double that of other brands. With the forecast for the import and distribution plan for the next 90 days, the forecast for the search volume of Dior and Chanel perfumes tends to increase well, with Gucci and Bharara also being two famous brands in the market but the forecast for the next 90 days is that the search volume will gradually decrease.
 ## Business Plan Recommendations for next 90 days:
 ### Manufacturer:
-- **Focus on two major perfume brands:** Dior and Chanel.
+- **Focus on two major perfume brands:** **Dior** and **Chanel**.
 ### Product Type:
  **Northern Region (Hanoi, Hai Phong):**
 - Advertise and reach customers with **Eau De Parfum (15-20%)** concentration and **Perfume (20-30%)** concentration products.
